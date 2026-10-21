@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "chore/issue-365-remove-codemod-leftovers",
+    "fix/issue-401-fix-api-return-400-for-non-json-bodies-on-the",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "chore/issue-365-remove-codemod-leftovers": "main",
+    "fix/issue-401-fix-api-return-400-for-non-json-bodies-on-the": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "chore/issue-365-remove-codemod-leftovers",
+    "fix/issue-401-fix-api-return-400-for-non-json-bodies-on-the",
+    "origin"
+  ]
+}
